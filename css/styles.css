@@ -1,0 +1,31 @@
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+body{
+  background-color: #fff59d;
+  color: #4e342e;
+
+}
+ h1{
+   font-family: fantasy;
+   font-size: 50pt;
+   text-align: center;
+   text-shadow: 2px 2px #cbc26d;
+ }
+
+#show-contact{
+  border: 2px groove #7b5e57;
+  padding-left: 10px;
+  background-color: #ffffcf;
+  width: 50%;
+}
